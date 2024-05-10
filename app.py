@@ -1,4 +1,4 @@
-# **1. Importing Necessary Libraries** 📚
+# Importing Necessary Libraries
 
 import pandas as pd
 import numpy as np
